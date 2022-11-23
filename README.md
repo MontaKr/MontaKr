@@ -16,8 +16,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=montakr&show_icons=true&locale=en&layout=compact" alt="montakr" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=montakr&show_icons=true&locale=en" alt="montakr" /></p>
 
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=montakr&" alt="montakr" /></p>
+
 
 <p><a herf="https://solved.ac/profile/docop/", target="_blank"><img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=docop></a></p>
