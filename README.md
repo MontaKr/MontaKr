@@ -1,4 +1,4 @@
-![alt text](https://ifh.cc/g/r2HY8B.png)
+![alt text](https://ifh.cc/g/DdV7n0.png)
 <h1 align="center">Hi 👋, I'm MontaKr</h1>
 <h3 align="center">A passionate frontend developer from Korea</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
