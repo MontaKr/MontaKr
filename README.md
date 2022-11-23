@@ -23,4 +23,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=montakr&" alt="montakr" /></p>
 
 
-<p><a herf="https://solved.ac/profile/docop/", target="_blank"><img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=docop></a></p>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=docop)](https://solved.ac/docop)
