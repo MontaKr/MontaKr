@@ -9,6 +9,10 @@
 
 - 🔭 I’m currently working on [2022-2-OSSProj-TeamTetris-8](https://github.com/CSID-DGU/2022-2-OSSProj-TeamTetris-8)
 
+- 🤝 My other account **https://github.com/zhoon95**
+
+- 👨‍💻 All of my projects are available at [https://www.notion.so/cb36666bfa9348a98b28d23c042cbe19](https://www.notion.so/cb36666bfa9348a98b28d23c042cbe19)
+
 - 📫 How to reach me **zhoon95@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
