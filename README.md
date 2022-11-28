@@ -11,7 +11,7 @@
 
 - 🤝 My other account **https://github.com/zhoon95**
 
-- 👨‍💻 All of my projects are available at amethyst-honeycup-0aa.notion.site
+- 👨‍💻 All of my projects are available at [amethyst-honeycup-0aa.notion.site](amethyst-honeycup-0aa.notion.site)
 
 - 📫 How to reach me **zhoon95@gmail.com**
 
