@@ -27,4 +27,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=montakr&" alt="montakr" /></p>
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=docop)](https://solved.ac/docop)
