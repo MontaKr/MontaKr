@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [2022-2-OSSProj-TeamTetris-8](https://github.com/CSID-DGU/2022-2-OSSProj-TeamTetris-8)
+- 🔭 I’m currently working on [https://github.com/CSID-DGU/2023-1-SCS4031--101-) 색각 이상자를 위한 강의 보조 서비스
 
 - 🤝 My other account **https://github.com/zhoon95**
 
