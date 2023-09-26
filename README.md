@@ -9,6 +9,8 @@
 
 - 🔭 I’m currently working on [https://github.com/CSID-DGU/2023-1-SCS4031--101-) 색각 이상자를 위한 강의 보조 서비스
 
+- 👋 My portfolio site **https://montakr.com/**
+
 - 🤝 My other account **https://github.com/zhoon95**
 
 - 👨‍💻 All of my projects are available at [https://amethyst-honeycup-0aa.notion.site/cb36666bfa9348a98b28d23c042cbe19](https://amethyst-honeycup-0aa.notion.site/cb36666bfa9348a98b28d23c042cbe19)
